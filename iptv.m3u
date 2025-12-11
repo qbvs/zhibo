@@ -1,9 +1,3 @@
-#EXTM3U
-#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV4.png",CCTV4
-https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4&t=1765423814&token=d84e719e9c3aea35165a156faf48217b
-#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV1.png",CCTV1
-https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1765423814&token=4e07526b1e8749c20090210584e295fb
-#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV2.png",CCTV2
-https://stream.iptv-search.com/iptv_test/main.php?id=CCTV2&t=1765423814&token=8c2df9468a928ebe2ca0fe3f9f56c9ed
-#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV3.png",CCTV3
-https://stream.iptv-search.com/iptv_test/main.php?id=CCTV3&t=1765423814&token=69efc2d6837be8492e2d19e582d799a8
+央视频道,#genre#
+CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1765423814&token=4e07526b1e8749c20090210584e295fb
+CCTV-4,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4&t=1765423814&token=d84e719e9c3aea35165a156faf48217b
