@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="央视频道",CCTV-1
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1765423814&token=4e07526b1e8749c20090210584e295fb
+
+#EXTINF:-1 group-title="央视频道",CCTV-4
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4&t=1765423814&token=d84e719e9c3aea35165a156faf48217b
